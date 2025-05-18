@@ -25,6 +25,12 @@ El análisis se ha realizado utilizando Python, Pandas y datos cruzados con la b
 
 ---
 
+## 🧬 Resultado visual del análisis
+
+![Tabla con interpretación genética](tabla_snp.png)
+
+---
+
 ## 📁 Estructura del proyecto
 
 - `interpretacion_snp_limpio_final.csv`: versión consolidada con mis 8 SNPs, genotipo, gen asociado, interpretación personal y datos de SNPedia.
