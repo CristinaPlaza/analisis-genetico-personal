@@ -27,7 +27,7 @@ El análisis se ha realizado utilizando Python, Pandas y datos cruzados con la b
 
 ## 📁 Estructura del proyecto
 
-- `interpretacion_snp_personal.csv`: tabla enriquecida con mis SNPs, genotipo, interpretación manual y resumen automático desde SNPedia.
+- `interpretacion_snp_limpio_final.csv`: versión consolidada con mis 8 SNPs, genotipo, gen asociado, interpretación personal y datos de SNPedia.
 - `README.md`: este archivo con explicaciones en lenguaje Markdown.
 - Análisis realizado en Google Colab.
 
