@@ -43,4 +43,9 @@ El análisis se ha realizado utilizando Python, Pandas y datos cruzados con la b
 
 Este análisis no sustituye consejo médico. Está hecho con fines de aprendizaje y desarrollo de habilidades en programación, biología y ciencia de datos.
 
-🔗 [Ver tabla interactiva en HTML](tabla_snp_portfolio.html)
+---
+
+### 🌐 Demo navegable
+
+👉 [Haz clic aquí para ver la tabla HTML interactiva](https://cristinaplaza.github.io/analisis-genetico-personal/)
+
