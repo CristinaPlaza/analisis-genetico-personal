@@ -42,3 +42,5 @@ El análisis se ha realizado utilizando Python, Pandas y datos cruzados con la b
 ## 🧠 Notas finales
 
 Este análisis no sustituye consejo médico. Está hecho con fines de aprendizaje y desarrollo de habilidades en programación, biología y ciencia de datos.
+
+🔗 [Ver tabla interactiva en HTML](tabla_snp_portfolio.html)
